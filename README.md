@@ -8,4 +8,4 @@ In this talk, Dr. Clark will introduce Dynamic Generalized Additive Models (DGAM
 Dr. Nicholas Clark is an Australian Research Council Early Career Fellow in the [School of Veterinary Science at the University of Queensland](https://researchers.uq.edu.au/researcher/15140). He is broadly interested in exploring new ways to (1) understand how ecological communities are formed and (2) predict how they will change over time. Dr Clark’s research focuses on developing computational tools and adapting techniques from statistical forecasting to study how organisms and ecosystems respond to change, with applications across a variety of ecological systems. He is also the developer of {mvgam}, an R package for fitting and interrogating Bayesian Dynamic GAMs.
 
 ## Slides
-The slidedeck can be [accessed as an html version](https://nicholasjclark.github.io/QUT_seminar/QUT_talk_slidedeck#1) or [downloaded as a PDF]()
+The slidedeck can be [accessed as an html version](https://nicholasjclark.github.io/QUT_seminar/QUT_talk_slidedeck#1) or [downloaded as a PDF](https://github.com/nicholasjclark/QUT_seminar/raw/main/QUT_talk_slidedeck.pdf)
